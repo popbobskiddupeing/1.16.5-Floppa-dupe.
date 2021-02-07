@@ -1,4 +1,4 @@
 # 1.16.5-Floppa-dupe.
 
 ## info
-this is a 1.16.5-1.17 paper launcher dupe.
+ 1.16.5-1.17 made by one of my friends and partially me.
