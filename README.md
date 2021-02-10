@@ -1,4 +1,4 @@
 # 1.16.5-Floppa-dupe.
-as seen in chris hansens to catch a predator
+when 1.17 is released this will be tested
 ## info
- 1.16.5-1.17 made by one of my friends and edited by me and made smaller
+ 1.16.5-1.17 made by some helpers and  edited by me
